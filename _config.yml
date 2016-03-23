@@ -1,0 +1,28 @@
+name: Aaron James Nicolas
+favicon: null
+layout_spectrum: 0.525536420987919
+typography_spectrum: 0.3162052435800433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.09765444253571332
+  lightness: 0.5540670966729522
+  saturation: 0.7627270244993269
+  rhythmicContrast: 0.09913691179826856
+purpose: []
