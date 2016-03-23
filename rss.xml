@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aaron James Nicolas]]></title>
         <description><![CDATA[Aaron James Nicolas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aaron-james-nicolas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 02:12:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 02:22:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aaron-james-nicolas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fd72b4a-7597-45c4-b3ed-fc6923364f9c.jpg">]]></description>
+            <link>https://thegrid.ai/aaron-james-nicolas/another-showcase-of-kalie-krauses-magical-photo-eye/index.html</link>
+            <guid isPermaLink="false">e0d714ac-0638-4e94-9708-cdabac3e1f6a</guid>
+            <pubDate>Wed, 23 Mar 2016 02:22:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2d96557-c1b9-434b-8388-2ad0167d7cca.jpg">]]></description>
-            <link>undefinedphoto-courtesy-of-the-lovely-and-talented-ka/index.html</link>
+            <link>https://thegrid.ai/aaron-james-nicolas/photo-courtesy-of-the-lovely-and-talented-ka/index.html</link>
             <guid isPermaLink="false">c681d7ed-7ab1-4ae1-9131-93ff66caee0a</guid>
             <pubDate>Wed, 23 Mar 2016 02:12:19 GMT</pubDate>
         </item>
