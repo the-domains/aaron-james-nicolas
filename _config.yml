@@ -1,7 +1,7 @@
 name: Aaron James Nicolas
 favicon: null
-layout_spectrum: 0.75166
-typography_spectrum: 0.07982
+layout_spectrum: 0.25831
+typography_spectrum: 0.90465
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
